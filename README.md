@@ -8,25 +8,22 @@ This repository is the **starter** for your End Semester Project submission in G
 > **Scope (as per assignment brief):**
 > Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
 
----
+This repository contains those 3 things required.
 
 **Important Note:** 
 1. TAs will evaluate using the `.py` file only.
 2. All your reports, plots, visualizations, etc pertaining to your solution should be uploaded to this GitHub repository
-
----
+   
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
-
----
+* Describe your repository structure here. Explain about overall code organization
+  just take and run tried to make as simple as possible 
 
 ## 📦 Installation & Dependencies
 
 * Mention all the related instructions for installation of related packages for running your code here.
-
----
+numpy,pandas,os,defaultcounter,matplotlib,time
 
 ## ▶️ Running the Code
 
@@ -36,7 +33,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 * Mention the instructions to run you .py files.
   
----
+just upload MNIST_TRAIN and MNIST_test data in main() section of main_da24b001.py file and run, you will get nearly 92% score and thats the max with PCA with 92% variance(as per of my hyperparameter tuning and time constraint)
 
 ## You can further add your own sections/titles along with corresponding contents here:
 
@@ -44,7 +41,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<Abhijeet Kumar, DA24B001>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
